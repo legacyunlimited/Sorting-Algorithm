@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>E:\Kendall Task\Sorting Algorithm\Debug\Sorting Algorithm-Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="SelectionSortTest.SelectionSOrt" Duration="1" />
+    <TestDuration Test="SelectionSortTest.SelectionSort" Duration="1" />
+    <TestDuration Test="InsertionSortTest.InsertionSort" Duration="1" />
+    <TestDuration Test="BuiltInSortTest.BuiltInSortSort" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
